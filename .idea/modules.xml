@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/deps/bunt/bunt.iml" filepath="$PROJECT_DIR$/deps/bunt/bunt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/credo/credo.iml" filepath="$PROJECT_DIR$/deps/credo/credo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deps/dialyxir/dialyxir.iml" filepath="$PROJECT_DIR$/deps/dialyxir/dialyxir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sudoku.iml" filepath="$PROJECT_DIR$/sudoku.iml" />
+    </modules>
+  </component>
+</project>
